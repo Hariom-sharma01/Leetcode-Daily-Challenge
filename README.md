@@ -17,12 +17,14 @@
 ## Array
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Math
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Bit Manipulation
 |  |
@@ -41,4 +43,16 @@
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
