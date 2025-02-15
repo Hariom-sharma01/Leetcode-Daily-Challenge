@@ -26,6 +26,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
