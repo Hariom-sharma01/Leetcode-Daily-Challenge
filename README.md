@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -59,5 +60,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
