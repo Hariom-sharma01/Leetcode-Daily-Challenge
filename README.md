@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
@@ -26,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -60,6 +62,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -72,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
