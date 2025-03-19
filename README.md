@@ -40,6 +40,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2107-find-unique-binary-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -217,4 +219,5 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1826-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
