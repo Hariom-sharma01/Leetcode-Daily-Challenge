@@ -33,6 +33,7 @@
 | [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0189-rotate-array) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -70,6 +71,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -78,6 +80,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
@@ -210,4 +213,8 @@
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
