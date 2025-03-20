@@ -7,6 +7,7 @@
 | [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1122-longest-duplicate-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1122-longest-duplicate-substring) |
 | [1160-letter-tile-possibilities](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -200,6 +201,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1122-longest-duplicate-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1122-longest-duplicate-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2478-longest-nice-subarray) |
@@ -209,6 +211,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1122-longest-duplicate-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1122-longest-duplicate-substring) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2665-minimum-time-to-repair-cars) |
@@ -223,4 +226,16 @@
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1826-maximum-xor-with-an-element-from-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1122-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1122-longest-duplicate-substring) |
+## Hash Function
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1122-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
