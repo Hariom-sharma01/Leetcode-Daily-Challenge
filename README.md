@@ -35,6 +35,7 @@
 | [0053-maximum-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -211,6 +212,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1122-longest-duplicate-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1122-longest-duplicate-substring) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
