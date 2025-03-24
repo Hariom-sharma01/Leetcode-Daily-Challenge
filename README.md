@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -253,11 +254,13 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
