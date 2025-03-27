@@ -11,6 +11,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1508-longest-happy-prefix](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [1122-longest-duplicate-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1122-longest-duplicate-substring) |
+| [1508-longest-happy-prefix](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1508-longest-happy-prefix) |
 ## Suffix Array
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [1122-longest-duplicate-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1122-longest-duplicate-substring) |
+| [1508-longest-happy-prefix](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1508-longest-happy-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -263,4 +266,8 @@
 | [0002-add-two-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0206-reverse-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
