@@ -48,6 +48,7 @@
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -75,6 +76,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -85,6 +87,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -141,6 +144,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -277,4 +281,12 @@
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1508-longest-happy-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
