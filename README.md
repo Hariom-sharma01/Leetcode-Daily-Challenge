@@ -37,6 +37,7 @@
 | [0053-maximum-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0189-rotate-array) |
+| [0312-burst-balloons](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0312-burst-balloons) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0053-maximum-subarray) |
+| [0312-burst-balloons](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0312-burst-balloons) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
