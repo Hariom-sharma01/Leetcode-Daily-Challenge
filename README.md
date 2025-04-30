@@ -34,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0053-maximum-subarray) |
@@ -99,6 +100,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
