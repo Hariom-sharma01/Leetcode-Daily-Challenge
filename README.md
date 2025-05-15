@@ -18,6 +18,7 @@
 | [2107-find-unique-binary-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
@@ -67,6 +68,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3227-find-missing-and-repeated-values) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Tree
 |  |
 | ------- |
@@ -218,6 +221,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
