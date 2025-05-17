@@ -8,18 +8,16 @@ class Solution {
                 nums[l]=temp;
                 l++;
                 m++;
-              //  continue;
             }
             else if(nums[m]==1){
                 m++;
-              //  continue;
+              
             }
             else if(nums[m]==2){
                 int temp=nums[m];
                 nums[m]=nums[r];
                 nums[r]=temp;
                 r--;
-                //continue;
             }
         }
     }
