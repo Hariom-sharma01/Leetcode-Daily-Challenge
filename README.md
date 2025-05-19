@@ -72,6 +72,7 @@
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3430-count-days-without-meetings](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -92,6 +93,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0075-sort-colors](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3321-type-of-triangle](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
