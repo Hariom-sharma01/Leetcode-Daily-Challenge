@@ -191,6 +191,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-validate-binary-tree-nodes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
@@ -198,6 +199,7 @@
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-validate-binary-tree-nodes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
@@ -205,6 +207,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-validate-binary-tree-nodes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -214,6 +217,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-validate-binary-tree-nodes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -223,6 +227,7 @@
 ## Graph
 |  |
 | ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1275-validate-binary-tree-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Dynamic Programming
 |  |
@@ -321,4 +326,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Union Find
+|  |
+| ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1275-validate-binary-tree-nodes) |
 <!---LeetCode Topics End-->
