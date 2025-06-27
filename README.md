@@ -65,6 +65,7 @@
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2551-apply-operations-to-an-array) |
@@ -253,6 +254,7 @@
 | [0075-sort-colors](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0868-push-dominoes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0868-push-dominoes) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
