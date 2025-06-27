@@ -79,6 +79,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3430-count-days-without-meetings](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3430-count-days-without-meetings) |
@@ -141,6 +142,7 @@
 | [0075-sort-colors](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3430-count-days-without-meetings) |
@@ -189,6 +191,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Tree
 |  |
