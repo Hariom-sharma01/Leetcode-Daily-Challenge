@@ -50,6 +50,7 @@
 | [0189-rotate-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0312-burst-balloons](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0312-burst-balloons) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0735-asteroid-collision](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0735-asteroid-collision) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -124,6 +125,7 @@
 | [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
@@ -147,6 +149,7 @@
 | [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -188,6 +191,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2308-divide-array-into-equal-pairs) |
@@ -280,6 +284,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-longest-duplicate-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1122-longest-duplicate-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
