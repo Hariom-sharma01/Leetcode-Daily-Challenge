@@ -24,6 +24,7 @@
 | [3194-find-words-containing-character](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3617-find-the-original-typed-string-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
