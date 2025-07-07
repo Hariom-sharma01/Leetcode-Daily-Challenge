@@ -59,6 +59,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -153,6 +154,7 @@
 | [0075-sort-colors](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0594-longest-harmonious-subsequence) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -162,6 +164,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -204,6 +207,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
