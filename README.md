@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
@@ -264,6 +265,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0062-unique-paths) |
 | [0312-burst-balloons](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0312-burst-balloons) |
 | [0868-push-dominoes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -355,6 +357,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
