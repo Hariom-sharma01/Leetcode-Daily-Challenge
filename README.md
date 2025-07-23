@@ -128,6 +128,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0594-longest-harmonious-subsequence) |
@@ -173,6 +174,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0146-lru-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
@@ -345,6 +347,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -369,4 +372,8 @@
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1275-validate-binary-tree-nodes) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
