@@ -131,6 +131,7 @@
 | [0146-lru-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0460-lfu-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0460-lfu-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0460-lfu-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
@@ -349,6 +351,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -376,4 +379,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
