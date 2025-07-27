@@ -58,6 +58,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -213,6 +214,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -275,6 +277,7 @@
 | [0868-push-dominoes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1170-shortest-common-supersequence) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
