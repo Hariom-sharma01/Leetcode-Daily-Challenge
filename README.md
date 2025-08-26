@@ -28,6 +28,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -45,6 +46,7 @@
 | [0001-two-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0075-sort-colors) |
@@ -271,6 +273,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0062-unique-paths) |
 | [0312-burst-balloons](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0312-burst-balloons) |
@@ -286,6 +289,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0868-push-dominoes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0868-push-dominoes) |
@@ -383,4 +387,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0460-lfu-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
