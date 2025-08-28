@@ -63,6 +63,7 @@
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1503-reducing-dishes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -162,6 +163,7 @@
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1503-reducing-dishes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1503-reducing-dishes) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -218,6 +220,7 @@
 | ------- |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1503-reducing-dishes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1503-reducing-dishes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -281,6 +284,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1170-shortest-common-supersequence) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1503-reducing-dishes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1503-reducing-dishes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
