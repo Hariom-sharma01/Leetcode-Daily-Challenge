@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
 | [0868-push-dominoes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -279,6 +280,7 @@
 | [0042-trapping-rain-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0072-edit-distance) |
 | [0312-burst-balloons](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0312-burst-balloons) |
 | [0868-push-dominoes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
