@@ -112,6 +112,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2481-strictly-palindromic-number](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -300,6 +301,7 @@
 | [0189-rotate-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0868-push-dominoes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0868-push-dominoes) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
@@ -397,4 +399,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0042-trapping-rain-water) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
