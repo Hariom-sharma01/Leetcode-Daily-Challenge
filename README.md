@@ -42,6 +42,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2551-apply-operations-to-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3336-water-bottles-ii) |
 ## Array
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3336-water-bottles-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
