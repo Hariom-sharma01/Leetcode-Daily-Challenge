@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0042-trapping-rain-water) |
@@ -224,6 +225,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0011-container-with-most-water) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1503-reducing-dishes) |
@@ -299,6 +301,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0075-sort-colors) |
