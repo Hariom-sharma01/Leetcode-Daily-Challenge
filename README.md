@@ -70,6 +70,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -152,6 +153,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1612-avoid-flood-in-the-city) |
 | [2107-find-unique-binary-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1612-avoid-flood-in-the-city) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -230,6 +233,7 @@
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1503-reducing-dishes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1503-reducing-dishes) |
+| [1612-avoid-flood-in-the-city](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1612-avoid-flood-in-the-city) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -341,6 +345,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1122-longest-duplicate-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1122-longest-duplicate-substring) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1612-avoid-flood-in-the-city](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1612-avoid-flood-in-the-city) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2665-minimum-time-to-repair-cars) |
