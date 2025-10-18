@@ -105,6 +105,7 @@
 | [3483-alternating-groups-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3483-alternating-groups-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3643-zero-array-transformation-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
@@ -181,6 +182,7 @@
 | [3321-type-of-triangle](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3430-count-days-without-meetings) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Tree
 |  |
 | ------- |
