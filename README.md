@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0242-valid-anagram) |
@@ -298,6 +299,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0062-unique-paths) |
@@ -315,6 +317,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0042-trapping-rain-water) |
