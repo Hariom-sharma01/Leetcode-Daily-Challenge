@@ -56,6 +56,7 @@
 | [0053-maximum-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0204-count-primes) |
 | [0312-burst-balloons](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0312-burst-balloons) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -115,6 +116,7 @@
 | [0002-add-two-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0204-count-primes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -336,6 +338,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/2610-closest-prime-numbers-in-range) |
 ## Sliding Window
 |  |
@@ -411,6 +414,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Union Find
 |  |
