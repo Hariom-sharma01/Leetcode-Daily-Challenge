@@ -74,6 +74,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1732-find-the-highest-altitude) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -212,6 +213,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/1732-find-the-highest-altitude) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Hariom-sharma01/Leetcode-Daily-Challenge/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
